@@ -1,0 +1,15 @@
+{
+  "name": "project_fuzzy_knn",
+  "version": "1.0.0",
+  "description": "fuzzy knn and comparison to normal knn",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "miktaew",
+  "license": "ISC",
+  "dependencies": {
+    "csv-parse": "^5.5.2",
+    "fs": "^0.0.1-security"
+  }
+}
