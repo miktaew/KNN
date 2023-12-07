@@ -5,4 +5,6 @@ Cross validation balances classes in data used for training, so that each class 
 
 Uses epsilon for 0-distance neighbors.
 
+Supports euclidean and Manhattan distances.
+
 Index.js has usage examples.
